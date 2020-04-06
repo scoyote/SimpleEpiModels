@@ -26,7 +26,9 @@ The python version of this code is again very similar to both the SAS and R mani
 ## Slightly Off-Topic: SAS, R and Python Integrated
 
 If you have SAS Viya, you can also access the SAS solvers using R or Python code using the libraries provided by our GitHub repositories. 
+
 https://github.com/sassoftware/python-swat
+
 https://github.com/sassoftware/R-swat
 
 SAS has put a lot of energy into embracing what our customers want when it comes to other free and open-source analytical solutions. What this means is SAS is working to build interfaces in both directions so that an analyst can have the most amount of flexibility in how they work with code. Another example is model management. Our model management solution. SAS Open Model Manager, accepts and keeps up with code written in just about anything and streamlines the relationship between modeling and DevOps.
